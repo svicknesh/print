@@ -1,4 +1,4 @@
-module git.handletec.my/vicknesh/print
+module github.com/svicknesh/print 
 
 go 1.16
 
